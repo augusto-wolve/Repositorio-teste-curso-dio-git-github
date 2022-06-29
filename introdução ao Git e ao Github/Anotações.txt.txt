@@ -1,0 +1,23 @@
+Link de download do git:
+https://git-scm.com/downloads
+
+  Comandos Básicos do Git:
+     .WINDOWS
+  	-cd "ir para uma pasta especifica"
+	-dir "listar diretório local"
+	-mkdir "Criar uma pasta"
+	-del "deletar um arquivo"
+	-rmdir "Deletar um Diretorio"
+	-echo > "criar uma pasta com arquivo txt"
+
+
+O que é chave ssh:
+
+-Modo de autenticação mais segura do Git para o Github,
+- Uma forma de estabelecer uma coneção mais segura e encriptada entre duas maquinas.
+ 
+	 fazer uma chave ssh:
+		.ssh-keygen -t ed25519 -c **e-mail** 
+		.cd /c/user/---/.ssh/
+		.cat  id25519 .pub (+chave ssh do github)
+			
