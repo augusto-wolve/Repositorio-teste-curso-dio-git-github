@@ -1,1 +1,1 @@
-# Repositorio-teste-curso-dio-git-github
+# Repositório testando conhecimentos sobre git/github.
